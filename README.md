@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MoreCookies
-- 👀 I’m interested in unity game development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on games idk lol
-- 📫 How to reach me: no
+- 👀 I’m interested in any game development
+- 🌱 I’m currently doing game development
+- 💞️ I’m looking to develop games
+- 📫 How to reach me: game development
 
 <!---
 MoreCookies/MoreCookies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
