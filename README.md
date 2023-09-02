@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoreCookies
-- 👀 I’m interested in any game development
+- 👀 I’m interested in game development
 - 🌱 I’m currently doing game development
 - 💞️ I’m looking to develop games
 - 📫 How to reach me: game development
