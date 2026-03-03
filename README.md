@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @MoreCookies
-- 👀 I’m interested in game development
-- 🌱 I’m currently doing game development
-- 💞️ I’m looking to develop games
-- 📫 How to reach me: game development
-
-<!---
-MoreCookies/MoreCookies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in AI
+- 🌱 I’m currently doing small projects
+- 💞️ I’m looking to learn more about anything
+- 📫 How to reach me: derekrs222@gmail.com
